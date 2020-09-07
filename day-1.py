@@ -42,6 +42,40 @@ print("Merhaba\rDünya") """Burada, “Merhaba” karakter dizisi ekrana yazdır
 basına dönülüyor ve bu kaçıs dizisinden sonra gelen “Dünya” karakter dizisi “Merhaba”
 karakter dizisinin üzerine yazıyor."""
 
+#Aynı Satır Bası (\r)
+print("Merhaba\rDünya")  
+"""Burada, “Merhaba” karakter dizisi ekrana yazdırıldıktan sonra \r kaçıs dizisinin etkisiyle satır
+basına dönülüyor ve bu kaçıs dizisinden sonra gelen “Dünya” karakter dizisi “Merhaba”
+karakter dizisinin üzerine yazıyor."""
+
 #Düsey Sekme (\v)
+print("düşey\v sekme")
+
+#Imleç Kaydırma (\b) (her sistemde çalışmayabilir)
+print("yahoo.com\b.uk")
+print("ahmet","\bcandan","\b.com")
+
+#Küçük Unicode (\u)
+print("\u0130")
+"""UNICODE, karakterlerin, har2erin, sayıların ve bilgisayar ekranında gördügümüz
+öteki bütün isaretlerin her biri için tek ve benzersiz bir numaranın tanımlandıgı bir sistemdir.
+Bu sistemde, ‘kod konumu’ (code point ) adı verilen bu numaralar özel bir sekilde gösterilir.
+Örnegin ‘ı’ har1 UNICODE sisteminde su sekilde temsil edilir:
+u+0131"""
+
+#Büyük Unicode (\U)
+print("\U00000131")
+
+#Uzun Ad (\N)
+import unicodedata
+print(unicodedata.name('a'))
+print("\N{LATIN SMALL LETTER A}")
+"""Onaltılı Karakter (\\x)
+x kaçıs dizisini kullanarak, onaltılı (hexadecimal ) sayma sistemindeki bir sayının karakter
+karsılıgını gösterebilirsiniz.
+"""
+
+#Etkisizlestirme (r)
+print(r"Kaçış Dizileri:\, \n, \t, \a, \\, r")
 
 
