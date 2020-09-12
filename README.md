@@ -34,6 +34,9 @@ saglar.
 
 \f Yeni bir sayfaya geçilmesini saglar.
 
-r Karakter dizisi içinde kaçıs dizilerini kullanabilmemizi saglar.
+
+
+
+**Day 3-4**: İnput fonksiyonu, complex(), eval(), ve format fonksiyonları işlendi.
 
 
