@@ -32,7 +32,7 @@ print("günlük sarfiyatınız: \t", günlükSarfiyat, " metreküp\n",
 
 ###################################################################
 
-###################  eval() ile Hesap Makinesi #####################3
+###################  eval() ile Hesap Makinesi #####################
 
 print("""
 Basit bir hesap makinesi uygulaması.
