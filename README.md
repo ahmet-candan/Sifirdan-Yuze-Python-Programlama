@@ -40,3 +40,7 @@ saglar.
 **Day 3-4**: İnput fonksiyonu, complex(), eval(), ve format fonksiyonları işlendi.
 
 
+
+**Day-5**: İf koşullu değimi işlendi ve gelişmiş bir hesap makinesi kodlandı.
+
+
