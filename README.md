@@ -44,3 +44,8 @@ saglar.
 **Day-5**: İf koşullu değimi işlendi ve gelişmiş bir hesap makinesi kodlandı.
 
 
+
+**Day-6**: sys modülü içindeki sürüm denetleme fonkisyonu olan version ve version_info işlenmiştir
+
+
+**Day-7 : For ve while döngüleri işlenmiştir.
