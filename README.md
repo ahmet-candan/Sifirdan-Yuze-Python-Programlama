@@ -48,4 +48,10 @@ saglar.
 **Day-6**: sys modülü içindeki sürüm denetleme fonkisyonu olan version ve version_info işlenmiştir
 
 
-**Day-7 : For ve while döngüleri işlenmiştir.
+**Day-7** : For ve while döngüleri işlenmiştir.
+
+
+**Day-8**: For ve while ile ilgili örenkler yapıldı.
+
+
+**Day-9**: Karakter dizileri işlenmeye başlandı.
