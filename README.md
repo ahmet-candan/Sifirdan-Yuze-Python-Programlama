@@ -55,3 +55,5 @@ saglar.
 
 
 **Day-9**: Karakter dizileri işlenmeye başlandı.
+
+**Day-10**: Karakter dizlieri bitiridi
